@@ -1,6 +1,7 @@
 ## 项目说明
 
 webpack运行机制剖析参照项目
+本次webpack系列文章可参照项目：https://github.com/jerryOnlyZRJ/webpack-tools
 
 ## 构建命令
 
